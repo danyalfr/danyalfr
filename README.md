@@ -1,7 +1,6 @@
-- 👋 Hi, I’m Muhammad Dany Alfikri
-- 👀 I’m interested in internship as Back End Engineer
-- 🌱 I’m currently Golang and Cloud Service (GCP and AWS)
-- 💞️ I’m looking to collaborate on
+- 👋 Hi, I’m Muhammad Dany Alfikri, Indonesian based in Taipei
+- 👀 I’m interested in internship as Back End Engineer and Machine Learning Engineer
+- 🌱 I’m currently learning Golang and Cloud Service (GCP and AWS)
 - 📫 How to reach me linkedin.com/in/danyalfr
 
 <!---
